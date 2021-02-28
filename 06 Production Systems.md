@@ -6,7 +6,7 @@ Production systems are kind of cognitive architecture, in which knowledge is rep
 
 We can build queries of knowledge based AI at many levels of instructions.
 
-![Cognitive levels](lecture_Screenshots/06_02.JPG)
+![Cognitive levels](Lecture_Screenshots/06_02.JPG)
 
 This is the scale here, low level to high level. At one level, we can build queries at hardware level. So we can talk about a brain or transistor sort of microchip. At the next level, we can talk about the kinds of methods and the kinds of representations we have been talking about, means-ends analysis that has an algorithm associated with it, or semantic network that's a knowledge representation in some symbolic form.
 
